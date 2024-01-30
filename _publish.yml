@@ -1,0 +1,4 @@
+- source: dashboard.qmd
+  quarto-pub:
+    - id: c1f615a2-0ee4-41cb-b48d-e69fb5ef4d2d
+      url: 'https://alex-chisholm.quarto.pub/development-indicators-by-continent'
